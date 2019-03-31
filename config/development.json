@@ -1,0 +1,5 @@
+{
+    "port":4000,
+    "dbConnection":"mongodb://localhost/usersDB",
+    "JWT_PrivateKey":"ddd@s_DFF224_zTTD$5$$S"
+}
